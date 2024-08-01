@@ -14,6 +14,10 @@ Working with #100Dev to create a layout of a hair salon website. Layout is on [A
 I jumped in with the HTML making sure it was semantic. Used classes for styling, created sections to separate each part, and header with nav. The content is not fully formed as there is some lorem involved.
 
 CSS used flex to make the layout similar to the image. I am not sure how to make the border of the background image curved as it is, but I will learn. Fonts are not exact as I was not paying for the font since this is about layout and placement.
+
+## Continuing
+I would like to continue the project with better design for the mobile version. Have the entire navigation work. The buttons that are on the page to go to the correct place. I will probably change them the links, but for now since it is about the layout I used buttons.
+
 ## Resources
 * [Google](https://www.google.com/)
 * [MDN Doc](https://developer.mozilla.org/en-US/)
