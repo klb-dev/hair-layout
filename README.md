@@ -1,7 +1,7 @@
 # HTML CSS
 
 ## Project
-Working with #100Dev to create a layout of a hair salon website. Layout is on [Ayesha - Hair Salon Template Home 03](https://dribbble.com/shots/6872630-Ayesha-Hair-Salon-Template-Home-03/attachments/6872630-Ayesha-Hair-Salon-Template-Home-03?mode=media) by Ajmal khan. We were told to use float or flexbox, I chose flexbox. Much simpler.
+Working with #100Dev to create a layout of a hair salon website. Layout is on [Ayesha - Hair Salon Template Home 03](https://dribbble.com/shots/6872630-Ayesha-Hair-Salon-Template-Home-03/attachments/6872630-Ayesha-Hair-Salon-Template-Home-03?mode=media) by Ajmal khan. We were told to use float or flexbox, I chose flexbox. Much simpler. The image shows other pages and a logbook, but I just did the home page.
 
 ## Utilities
 * HTML 5
